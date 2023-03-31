@@ -1,5 +1,7 @@
 # wc2023-delphi
 
+Data sources:
+
 Statsbomb open data:
 Match results from several FA Women’s Super Leagues, NWSL, UEFA Women’s Euro, and Women’s World Cup 2019
 https://github.com/statsbomb/open-data
@@ -15,7 +17,8 @@ https://www.ea.com/games/fifa/fifa-23/womens-ratings
 FIFA 16-22 game player rating
 https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
 
-Squad record of previous international games (missing)
+Previous Women's World Cup
+https://fbref.com/en/comps/106/history/Womens-World-Cup-Seasons
 
 32 Teams qualified for 2023 World Cup
 https://www.fifa.com/fifaplus/en/articles/everything-you-need-to-know-about-about-the-fifa-womens-world-cup-2023 
