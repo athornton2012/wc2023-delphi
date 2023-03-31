@@ -11,7 +11,7 @@ Match results from multiple international leagues/tournaments/World Cups since 1
 https://github.com/martj42/womens-international-results
 
 FIFA 23 game player rating:
-FIFA’s list of 500 female players, rated on 70+ features (pace, shooting, passing, etc. )
+FIFA’s list of 500+ female players, rated on 70+ features (pace, shooting, passing, etc. )
 https://www.ea.com/games/fifa/fifa-23/womens-ratings
 
 FIFA 16-22 game player rating
