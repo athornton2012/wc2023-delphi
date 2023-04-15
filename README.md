@@ -28,3 +28,6 @@ https://footystats.org/women/
 https://www.kaggle.com/datasets/stevebalboa/uswnt-player-stats-from-ussoccer
 
 https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_ranking-2022-10-13.csv
+
+References:
+https://topsoccerblog.com/top-best-womens-football-leagues-world/
