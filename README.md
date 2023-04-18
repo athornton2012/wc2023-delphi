@@ -32,3 +32,17 @@ https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_
 References:
 
 https://topsoccerblog.com/top-best-womens-football-leagues-world/
+
+‘The PyCoach’ model
+https://towardsdatascience.com/predicting-the-fifa-world-cup-2022-with-a-simple-model-using-python-6b34bdd4f2a5
+https://github.com/ifrankandrade/fifa-world-cup-2022-prediction
+
+David Camilo model
+https://github.com/davidcamilo0710/QATAR_2022_Prediction
+
+Matheus Kempa Model
+https://github.com/Matheuskempa/My_Udacity_Capstone/blob/master/Treatment.ipynb
+
+Elo Python Ranking
+https://github.com/ddm7018/Elo
+https://github.com/rshk/elo
