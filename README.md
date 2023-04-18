@@ -29,6 +29,7 @@ https://www.kaggle.com/datasets/stevebalboa/uswnt-player-stats-from-ussoccer
 
 https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_ranking-2022-10-13.csv
 
+
 References:
 
 https://topsoccerblog.com/top-best-womens-football-leagues-world/
@@ -46,3 +47,6 @@ https://github.com/Matheuskempa/My_Udacity_Capstone/blob/master/Treatment.ipynb
 Elo Python Ranking
 https://github.com/ddm7018/Elo
 https://github.com/rshk/elo
+
+FiveThirtyEight 
+https://projects.fivethirtyeight.com/womens-world-cup/
