@@ -29,6 +29,10 @@ https://www.kaggle.com/datasets/stevebalboa/uswnt-player-stats-from-ussoccer
 
 https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_ranking-2022-10-13.csv
 
+https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-2019
+
+
+
 
 References:
 
