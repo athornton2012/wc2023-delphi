@@ -33,6 +33,8 @@ https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-2019
 
 Team Rankings 2003-2022
 https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_ranking-2022-10-13.csv
+
+https://www.kaggle.com/datasets/mattop/fifa-womens-world-cup-stats
    
   
 
