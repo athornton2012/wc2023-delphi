@@ -31,6 +31,10 @@ https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_
 
 https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-2019
 
+Team Rankings 2003-2022
+https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_ranking-2022-10-13.csv
+
+https://www.kaggle.com/datasets/mattop/fifa-womens-world-cup-stats
    
   
 
@@ -54,3 +58,12 @@ https://github.com/rshk/elo
 
 FiveThirtyEight 
 https://projects.fivethirtyeight.com/womens-world-cup/
+
+RSSSF R.S.S.S.F. stands for Rec.Sport.Soccer Statistics Foundation. 
+https://www.rsssf.org/nersssf.html
+
+ESPN Football Statistics for the Womens World Cups
+https://www.espn.com/soccer/standings/_/league/FIFA.WWC/season/2023
+
+Soccer Stats.com Women's Euro2022 Stats
+https://www.soccerstats.com/leagueview.asp?league=eurow
