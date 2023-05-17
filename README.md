@@ -67,3 +67,5 @@ https://www.espn.com/soccer/standings/_/league/FIFA.WWC/season/2023
 
 Soccer Stats.com Women's Euro2022 Stats
 https://www.soccerstats.com/leagueview.asp?league=eurow
+
+https://github.com/dataquestio/project-walkthroughs/blob/master/football_matches/prediction.ipynb
