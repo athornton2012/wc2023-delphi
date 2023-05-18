@@ -69,3 +69,5 @@ Soccer Stats.com Women's Euro2022 Stats
 https://www.soccerstats.com/leagueview.asp?league=eurow
 
 https://github.com/dataquestio/project-walkthroughs/blob/master/football_matches/prediction.ipynb
+
+https://github.com/danielguerreros/InternationalELo/blob/main/calculate_elo.ipynb
