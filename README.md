@@ -35,6 +35,8 @@ Team Rankings 2003-2022
 https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_ranking-2022-10-13.csv
 
 https://www.kaggle.com/datasets/mattop/fifa-womens-world-cup-stats
+
+https://github.com/eonofrey/elo_analysis/blob/master/elo_analysis.ipynb
    
   
 
@@ -67,3 +69,9 @@ https://www.espn.com/soccer/standings/_/league/FIFA.WWC/season/2023
 
 Soccer Stats.com Women's Euro2022 Stats
 https://www.soccerstats.com/leagueview.asp?league=eurow
+
+https://github.com/dataquestio/project-walkthroughs/blob/master/football_matches/prediction.ipynb
+
+https://github.com/danielguerreros/InternationalELo/blob/main/calculate_elo.ipynb
+
+https://digitalhub.fifa.com/m/f99da4f73212220/original/edbm045h0udbwkqew35a-pdf.pdf
