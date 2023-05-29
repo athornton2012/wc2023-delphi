@@ -73,3 +73,5 @@ https://www.soccerstats.com/leagueview.asp?league=eurow
 https://github.com/dataquestio/project-walkthroughs/blob/master/football_matches/prediction.ipynb
 
 https://github.com/danielguerreros/InternationalELo/blob/main/calculate_elo.ipynb
+
+https://digitalhub.fifa.com/m/f99da4f73212220/original/edbm045h0udbwkqew35a-pdf.pdf
