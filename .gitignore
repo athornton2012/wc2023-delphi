@@ -1,2 +1,4 @@
 datasets/
 archive/
+imgs_old/
+.env
