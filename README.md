@@ -1,77 +1,36 @@
 # wc2023-delphi
 
+This project was created to explore, explain, and display the data about women’s soccer from multiple perspectives. With the hope to unveil the untold stories, and to appreciate the remarkable efforts contributed to women’s soccer worldwide, we present this report that engages both ardent sports enthusiasts and newcomers alike.
+
 Data sources:
 
-Statsbomb open data:
+- Statsbomb open data:
 Match results from several FA Women’s Super Leagues, NWSL, UEFA Women’s Euro, and Women’s World Cup 2019
 https://github.com/statsbomb/open-data
 
-International women’s game:
+- FBref Women's World Cup History
+Detailed record on the results and individual performance of previous world cups.
+https://fbref.com/en/comps/106/history/Womens-World-Cup-Seasons
+
+- International women’s game:
 Match results from multiple international leagues/tournaments/World Cups since 1969
 https://github.com/martj42/womens-international-results
 
-FIFA 23 game player rating:
-FIFA’s list of 500+ female players, rated on 70+ features (pace, shooting, passing, etc. )
+- FIFA 23 game player rating:
+EA Sport's rating of 500+ female players, rated on 70+ features (pace, shooting, passing, etc. )
 https://www.ea.com/games/fifa/fifa-23/womens-ratings
 
-FIFA 16-22 game player rating
+- FIFA 16-22 game player rating
 https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
 
-Previous Women's World Cup
-https://fbref.com/en/comps/106/history/Womens-World-Cup-Seasons
+- Wikipedia U20 Women's World Cup History
+https://en.wikipedia.org/wiki/FIFA_U-20_World_Cup
 
-32 Teams qualified for 2023 World Cup
+- 32 Teams qualified for 2023 World Cup
 https://www.fifa.com/fifaplus/en/articles/everything-you-need-to-know-about-about-the-fifa-womens-world-cup-2023 
 
-https://footystats.org/women/
+- 2023 World Cup Bracket
+https://www.espn.com/soccer/story/_/id/37633108/2023-women-world-cup-finals-bracket-fixtures-schedule
 
-https://www.kaggle.com/datasets/stevebalboa/uswnt-player-stats-from-ussoccer
-
-https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_ranking-2022-10-13.csv
-
-https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-2019
-
-Team Rankings 2003-2022
-https://www.kaggle.com/datasets/cashncarry/fifa-world-ranking-women?select=fifa_ranking-2022-10-13.csv
-
-https://www.kaggle.com/datasets/mattop/fifa-womens-world-cup-stats
-
-https://github.com/eonofrey/elo_analysis/blob/master/elo_analysis.ipynb
-   
-  
-
-References:
-
-https://topsoccerblog.com/top-best-womens-football-leagues-world/
-
-‘The PyCoach’ model
-https://towardsdatascience.com/predicting-the-fifa-world-cup-2022-with-a-simple-model-using-python-6b34bdd4f2a5
-https://github.com/ifrankandrade/fifa-world-cup-2022-prediction
-
-David Camilo model
-https://github.com/davidcamilo0710/QATAR_2022_Prediction
-
-Matheus Kempa Model
-https://github.com/Matheuskempa/My_Udacity_Capstone/blob/master/Treatment.ipynb
-
-Elo Python Ranking
-https://github.com/ddm7018/Elo
-https://github.com/rshk/elo
-
-FiveThirtyEight 
-https://projects.fivethirtyeight.com/womens-world-cup/
-
-RSSSF R.S.S.S.F. stands for Rec.Sport.Soccer Statistics Foundation. 
-https://www.rsssf.org/nersssf.html
-
-ESPN Football Statistics for the Womens World Cups
-https://www.espn.com/soccer/standings/_/league/FIFA.WWC/season/2023
-
-Soccer Stats.com Women's Euro2022 Stats
-https://www.soccerstats.com/leagueview.asp?league=eurow
-
-https://github.com/dataquestio/project-walkthroughs/blob/master/football_matches/prediction.ipynb
-
-https://github.com/danielguerreros/InternationalELo/blob/main/calculate_elo.ipynb
-
-https://digitalhub.fifa.com/m/f99da4f73212220/original/edbm045h0udbwkqew35a-pdf.pdf
+- Women's Football Member Associations Survey Report 2019
+https://digitalhub.fifa.com/m/231330ded0bf3120/original/nq3ensohyxpuxovcovj0-pdf.pdf
