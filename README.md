@@ -4,13 +4,17 @@ This project was created to explore, explain, and display the data about women�
 
 Data sources:
 
-- Statsbomb open data:
-Match results from several FA Women’s Super Leagues, NWSL, UEFA Women’s Euro, and Women’s World Cup 2019. \
-https://github.com/statsbomb/open-data
-
 - FBref Women's World Cup History
 Detailed record on the results and individual performance of previous world cups. \
 https://fbref.com/en/comps/106/history/Womens-World-Cup-Seasons
+
+- FBref NWSL History
+Detailed record on the results and individual performance of previous NWSL. \
+https://fbref.com/en/comps/189/history/Womens-Super-League-Seasons
+
+- FBref Super League History
+Detailed record on the results and individual performance of previous Super League. \
+https://fbref.com/en/comps/182/history/NWSL-Seasons
 
 - International women’s game:
 Match results from multiple international leagues/tournaments/World Cups since 1969.  \
@@ -25,6 +29,10 @@ https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
 
 - Wikipedia U20 Women's World Cup History \
 https://en.wikipedia.org/wiki/FIFA_U-20_World_Cup
+
+- Statsbomb open data:
+Match results from several FA Women’s Super Leagues, NWSL, UEFA Women’s Euro, and Women’s World Cup 2019. \
+https://github.com/statsbomb/open-data
 
 - 32 Teams qualified for 2023 World Cup \
 https://www.fifa.com/fifaplus/en/articles/everything-you-need-to-know-about-about-the-fifa-womens-world-cup-2023 
