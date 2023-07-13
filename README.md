@@ -3,7 +3,7 @@
 This project was created to explore, explain, and display the data about women’s soccer from multiple perspectives. With the hope to unveil the untold stories, and to appreciate the remarkable efforts contributed to women’s soccer worldwide, we present this report that engages both ardent sports enthusiasts and newcomers alike.
 
 Data sources:
-
+---
 - FBref Women's World Cup History
 Detailed record on the results and individual performance of previous world cups. \
 https://fbref.com/en/comps/106/history/Womens-World-Cup-Seasons
