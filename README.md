@@ -42,3 +42,9 @@ https://www.espn.com/soccer/story/_/id/37633108/2023-women-world-cup-finals-brac
 
 - Women's Football Member Associations Survey Report 2019 \
 https://digitalhub.fifa.com/m/231330ded0bf3120/original/nq3ensohyxpuxovcovj0-pdf.pdf
+
+- Fox Sports 2023 World Cup Qualified Team Rosters
+https://www.foxsports.com/soccer/2023-fifa-womens-world-cup/teams            
+       
+- Wikipedia 2019 FIFA Women’s World Cup
+https://en.wikipedia.org/wiki/2019_FIFA_Women%27s_World_Cup
