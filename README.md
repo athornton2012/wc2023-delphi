@@ -2,7 +2,7 @@
 
 This project was created to explore, explain, and display the data about women’s soccer from multiple perspectives. With the hope to unveil the untold stories, and to appreciate the remarkable efforts contributed to women’s soccer worldwide, we present this report that engages both ardent sports enthusiasts and newcomers alike.
 
-Final Report: https://github.com/athornton2012/wc2023-delphi/blob/main/Pre-WC2023%20Women's%20Soccer%20Analysis-Final%20Report.pdf
+View the [Final Report](https://github.com/athornton2012/wc2023-delphi/blob/main/Pre-WC2023%20Women's%20Soccer%20Analysis-Final%20Report.pdf)
 
 Data sources:
 ---
